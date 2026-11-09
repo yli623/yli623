@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a principal technical product manager with more than ten years of building platform and AI products. I believe the best way to understand what AI can do is to build with it, so I build with it daily, at work and outside it.
+I'm a principal technical product manager at Amazon with more than ten years of building platform and AI products. I believe the best way to understand what AI can do is to build with it, so I build with it daily, at work and outside it.
 
 This page collects things I've built for myself. Each project's README is written as a short case study: the problem, the decisions, and what I learned.
 
